@@ -5,3 +5,7 @@ header  {
 .Cabecalho-imagem{
     width:10%;
     height:10%
+}
+.cabecalho {
+    display: flex;
+    
