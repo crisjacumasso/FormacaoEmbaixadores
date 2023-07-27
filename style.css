@@ -17,3 +17,8 @@ header  {
 
 .publico-imagem {
     width: 30%;
+
+    .publico-imagem{
+        padding: 10px;
+        margin: 0px;
+    }
