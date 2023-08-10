@@ -31,4 +31,7 @@ header  {
         width: 40px;
         padding: 4px;
     }
-    
+    .Embaixadores-todos {
+        display: grid;
+        grid: template columns: 50% 50%; 
+    }
